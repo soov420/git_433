@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 abc
 
 kjl
+=======
+abc
+>>>>>>> parent of 6eb9e5d... Update hello.txt
